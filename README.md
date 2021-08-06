@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[gmail]: oleg.zhuravlev.mail@gmail.com
+[gmail]: https://oleg.zhuravlev.mail@gmail.com
 [telegram]: https://t.me/Oleg_Zhuravlev
 [linkedin]: https://www.linkedin.com/in/oleg-zhuravlev-22a0931b8/
 [habr]: https://career.habr.com/webdev-oleg
