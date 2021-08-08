@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd developer.🖥
 
-# 🙃 About me 
+# 👨‍💻 About me 
 My name is Oleg, I am 21 years old. I have been doing programming for about 1 years, trying out different technologies and constantly learning new things.
 
 - 💪 I like to write code
