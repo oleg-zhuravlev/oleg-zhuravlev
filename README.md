@@ -23,7 +23,6 @@ My name is Oleg, I am 22 years old. I have been doing programming for about 1 ye
 [<img align="left" alt="oleg-zhuravlev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="oleg-zhuravlev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="oleg-zhuravlev | Habr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/habr.svg" />][habr]
-[<img align="left" alt="oleg-zhuravlev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -43,4 +42,3 @@ My name is Oleg, I am 22 years old. I have been doing programming for about 1 ye
 [telegram]: https://t.me/Oleg_Zhuravlev
 [linkedin]: https://www.linkedin.com/in/oleg-zhuravlev-22a0931b8/
 [habr]: https://career.habr.com/webdev-oleg
-[vk]: https://vk.com/zhuravlev_o_v
